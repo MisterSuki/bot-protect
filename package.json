@@ -1,7 +1,7 @@
 {
-  "name": "levelbot",
+  "name": "SRX Team",
   "version": "1.0.0",
-  "description": "Leveling Bot",
+  "description": "Bot Protect",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
